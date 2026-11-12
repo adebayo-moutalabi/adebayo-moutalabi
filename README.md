@@ -7,4 +7,4 @@ Je conçois et j'automatise des infrastructures (Linux, Docker, Kubernetes, CI/C
 - Portfolio : https://adebayo-moutalabi.github.io
 - LinkedIn : https://www.linkedin.com/in/adebayo-moutalabi/
 
-Ouvert aux opportunités d'alternance Cloud, DevOps & IA.
+Ouvert aux opportunités de mission en Cloud, DevOps & IA.
